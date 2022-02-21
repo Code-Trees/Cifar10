@@ -59,15 +59,15 @@ Level2:
 Cifar10_Model2.ipynb
 
 Observation:
-1> In 50 epochs max trainning accuracy was  98.50 % and max testing accuracy was 78.78 %. Till 6 epochs Train and test model was fine. Later it started overfitting and gap between train and test started increasing.
+1> In 50 epochs max trainning accuracy was  98.50 % and max testing accuracy was 78.78 %. Till 6 epochs Train and test model 	was fine. Later it started overfitting and gap between train and test started increasing.
 
-3> We Reached 77+ test accuracy in 12 th epoch . It might have get stucked in minima or there might not be good learning for model or the data in test is tough / Not a correct representation of Train. Can be enything 
+3> We Reached 77+ test accuracy in 12 th epoch . It might have get stucked in minima or there might not be good learning for 	model or the data in test is tough / Not a correct representation of Train. Can be enything 
 
 4> Model is using heavy parameters.
 
 Target:
 1> Let's add regularization to generalize the model. 
-Let's add Droupout, Cutout, etc..
+	Let's add Droupout, Cutout, etc..
 
 
 Level3:
